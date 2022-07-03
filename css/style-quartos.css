@@ -1,0 +1,26 @@
+.descricao-quarto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.descricao-quarto ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.descricao-quarto ul li {
+    margin: 0 20px 10px 20px;
+}
+.container{
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.quarto{
+    border-bottom: 0px;
+}
+
